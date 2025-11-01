@@ -26,3 +26,8 @@ bun install
 ```bash
 bun run mint-tokens
 ```
+**Supply tokens**
+
+```bash
+bun run create-supply
+```
